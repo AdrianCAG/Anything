@@ -8,7 +8,8 @@ A revolutionary programming language that speaks every language
 ## The Origin Story
 Anything started as a personal learning project to deeply understand compilers, parsers, virtual machines, and language design. What began as an educational journey evolved into an ambitious experiment: What if a language could adapt to you instead of forcing you to adapt to it?
 
-**Current Status**: This project is actively in development as I work through learning phases of compiler construction, parsing theory, and language implementation. While the vision is comprehensive, many features are being built iteratively as part of the learning process.
+> [!IMPORTANT]
+> **Current Status**: This project is actively in development as I work through learning phases of compiler construction, parsing theory, and language implementation. While the vision is comprehensive, many features are being built iteratively as part of the learning process.
 
 ## Why Anything?
 
